@@ -1,0 +1,26 @@
+input[type=checkbox], 
+input[type=email], 
+input[type=number], 
+input[type=password], 
+input[type=radio], 
+input[type=tel], 
+input[type=text], 
+select, 
+textarea {
+    border: 1px solid #b9b9af;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 4px;
+    outline: none;
+    font-size: 1em;
+}
+
+input[type=email], 
+input[type=number], 
+input[type=password], 
+input[type=tel], 
+input[type=text], 
+textarea {
+    width: 100%;
+}
+
